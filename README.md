@@ -1,2 +1,2 @@
 # Python_ForKakaoBot
-Python Implementation Tool of KakaoTalk unofficial Bot.
+Python Implementation Tool for KakaoTalk unofficial Bot.
